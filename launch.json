@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Java Debug",
+        "type": "java",
+        "request": "launch",
+        "mainClass": "src.com.chess.JChess.java",
+        "projectName": "Chess",
+        "args": ""
+      }
+    ],
+    "java.project.referencedLibraries": [
+      "lib/carrot2-core-3.6.1.jar/carrot2-core-3.6.1.jar",
+      "lib/carrot2-core-3.6.1.jar/guava-18.0.jar",
+      "lib/carrot2-core-3.6.1.jar/corba-api-5.0.1.jar/corba-api-5.0.1.jar"
+    ]
+  }
+  
